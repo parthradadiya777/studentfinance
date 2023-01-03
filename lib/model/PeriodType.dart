@@ -1,0 +1,3 @@
+enum PeriodType {
+  MONTHLY, ONETIME;
+}
